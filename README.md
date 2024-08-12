@@ -1,5 +1,13 @@
-<h4 align="left">Hi, I'm Hayden Yang</h4>
-<p align="left">Seasoned software engineer who has held multiple roles including application developer, solution architect and mobile developer. My expertise spans across all aspects of the software development life cycle, from requirement analysis and design, to development, deployment, and automated testing. I am well-versed in Microsoft Power platform, J2EE and mobile platform. I have a comprehensive understanding of large-scale systems, software development methodologies, and effective engagement with stakeholders including customers, users, and technical personnel. With my extensive technical knowledge and excellent communication skills, I am confident in my ability to deliver high-quality solutions that meet business objectives and exceed customer expectations.</p>
+<h4 align="left">Hi, I'm Hayden</h4>
+<p align="left">A seasoned software engineer with extensive experience in application development, solution architecture, and mobile development. Proficient in leveraging Microsoft Power Platform and AI technologies to deliver high-quality software solutions. Committed to engaging stakeholders and ensuring that solutions meet business objectives.</p>
+<ul>
+  <li>Microsoft Power Platform, J2EE and Mobile Platforms: Specialized knowledge and experience in leveraging Microsoft Power Platform for innovative solutions, Strong background in J2EE and mobile application development</li>
+  <li>AI Technology Proficiency: Skilled in AI technologies, including: OpenAI, Gemini, Claude and Open-source AI model API programming</li>      
+  <li>Robotics Enthusiast: Passionate about integrating robotics into software applications.</li>
+  <li>Large-scale Systems Understanding: Comprehensive knowledge of large-scale systems and software development methodologies.</li>
+  <li>Full Software Development Life Cycle: Proficient in requirement analysis, design, development, deployment, and automated testing.</li>
+  <li>High-Quality Solutions: Committed to delivering solutions that meet business objectives and exceed customer expectations.</li>  
+</ul>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
