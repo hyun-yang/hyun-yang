@@ -1,8 +1,8 @@
 <h4 align="left">Hi, I'm Hayden</h4>
-<p align="left">A seasoned software engineer with extensive experience in application development, solution architecture, and mobile development. Proficient in leveraging Microsoft Power Platform and AI technologies to deliver high-quality software solutions. Committed to engaging stakeholders and ensuring that solutions meet business objectives.</p>
+<p align="left">A seasoned software engineer with extensive experience in application development, solution architecture, and mobile development. Proficient in leveraging Microsoft Power Platform, J2EE and AI technologies to deliver high-quality software solutions. Committed to engaging stakeholders and ensuring that solutions meet business objectives.</p>
 <ul>
   <li>Microsoft Power Platform, J2EE and Mobile Platforms: Specialized knowledge and experience in leveraging Microsoft Power Platform for innovative solutions, Strong background in J2EE and mobile application development</li>
-  <li>AI Technology Proficiency: Skilled in AI technologies, including Azure AI Service, Prompt Flow, OpenAI, Gemini, Claude, Open-source AI model API programming, Langchain, GraphRAG and ColPali.</li>        
+  <li>AI Technology Proficiency: Skilled in AI technologies, including Azure AI Service, Prompt Flow, OpenAI, Gemini, Claude, Open-source AI model API programming, Langchain, GraphRAG, ColPali and AI Agent system.</li>        
   <li>Large-scale Systems Understanding: Comprehensive knowledge of large-scale systems and software development methodologies.</li>
   <li>Full Software Development Life Cycle: Proficient in requirement analysis, design, development, deployment, and automated testing.</li>
   <li>High-Quality Solutions: Committed to delivering solutions that meet business objectives and exceed customer expectations.</li>  
